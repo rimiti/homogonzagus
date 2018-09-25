@@ -4,7 +4,7 @@ How can you define the homogonzagus animal? 🤔
 
 
 
-## One meme game
+## One meme game 🚀
 
 <!-- ![1](https://github.com/rimiti/homogonzagus/blob/master/img/1.gif) -->
 <img src="https://github.com/rimiti/homogonzagus/blob/master/img/1.gif" width="550">
